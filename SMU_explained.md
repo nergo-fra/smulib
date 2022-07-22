@@ -1,5 +1,5 @@
 
-# SMU_CSV Project
+# SMU Doc
 
 ###### *Special Thanks to Scott T Keene, Cambridge University*
 <br/>
