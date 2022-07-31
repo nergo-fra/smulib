@@ -14,4 +14,6 @@ This library is a compilation of the functions wrote by Scott T Keene and I to c
 This repository also contains documentation in which a brief explanatory wiki of KeySight control syntax and Keysight's original documentation.
 
 ### Note to reader
-If any mistake or malfunction is noticed, please report the issue. All contribution will be credited, if you have any functions to add do not hesitate to contact me.
+If any mistake or malfunction is noticed, please report the issue. 
+
+All contribution will be credited, if you have any functions to add do not hesitate to contact me.
