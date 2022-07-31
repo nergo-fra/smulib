@@ -2,7 +2,7 @@
 
 ###### *Special Thanks to Scott T Keene, Cambridge University*
 
-###### *Contributor(s) : Scott T Keene, nergo-fra*
+###### *Contributor(s) : nergo-fra, Scott T Keene*
 
 
 ###### *Corrector(s) : -*
